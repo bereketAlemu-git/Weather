@@ -1,4 +1,4 @@
-# Weather App
+# Weather Forecast Application
 
 ## Overview
 
