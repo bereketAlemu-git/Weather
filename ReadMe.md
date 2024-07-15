@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple weather application that allows users to check current weather conditions for cities worldwide. Users can enter a city name, and the app displays temperature, weather description, and an icon representing the current weather.
+A simple weather application that allows users to check current weather conditions for cities. Users can enter a city name, and the app displays temperature, weather description, and an icon representing the current weather.
 
 ## Features
 
@@ -16,10 +16,7 @@ A simple weather application that allows users to check current weather conditio
 - **Frontend:** HTML, CSS, JavaScript
 - **API:** OpenWeatherMap API
   
-## Screenshots
-
-Include screenshots or gifs of your application in action (optional).
 
 ## Run the App:
 
-Open index.html in your web browser.
+Open index.html in the web browser.
